@@ -6,8 +6,8 @@ Link do protótipo no figma: https://www.figma.com/proto/YYGuwFzeGqadWQzrCT2peX/
 Caixas de Diálogo
 
 - [ ] prompt
-- [] alert
-- [] confirm
+- [ ] alert
+- [ ] confirm
 
 Temporizadores
 
