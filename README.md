@@ -85,7 +85,7 @@ jQuery
  Aplicar um plugin do jQuery (por exemplo, jQuery Mask Plugin)
 Web Storage
 
- LocalStorage ou SessionStorage
+ ()LocalStorage ou SessionStorage
  Leitura e escrita de dados simples
  Leitura e escrita de JSON
 Ajax com Backend
