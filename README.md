@@ -5,14 +5,14 @@ Link do protótipo no figma: https://www.figma.com/proto/YYGuwFzeGqadWQzrCT2peX/
 
 Caixas de Diálogo
 
-- [] prompt
+- [ ] prompt
 - [] alert
 - [] confirm
 
 Temporizadores
 
-- [] setInterval
-- [] setTimeout
+- [ ] setInterval
+- [ ] setTimeout
 
 Funções
 
