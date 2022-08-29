@@ -1,0 +1,305 @@
+body {
+    background-color:lightgreen;
+    max-width:100%;
+    max-height: 100%;
+}
+
+header {
+    
+    background-color: firebrick;
+    padding: 1em;
+    border: 2px solid black;
+    border-radius: 9rem;
+    text-align: center;
+    font-size: 50px;
+    font-family: 'Caesar Dressing', cursive;
+}
+p {
+    text-align: left;
+    font-size: 20px;
+    font-family: monospace;
+   }
+
+.buttonL{
+    
+    width: 50%;
+    background-color: crimson;
+    border: 2px solid black; 
+    padding: 1em;
+    text-align: center;
+    position: relative;
+    top:15px;
+    left:50px;
+    margin-bottom: 1em;
+    font-family: 'Sedgwick Ave', cursive;
+    font-size: 30px;
+    border-radius:2em
+}
+.buttonR{
+    width: 50%;
+    border-radius:2em;
+    background-color: crimson;
+    border: 2px solid black; 
+    padding: 1em;
+    text-align: center;
+    position: relative;
+    top:15px;
+    left:50px;
+    font-family: 'Sedgwick Ave', cursive;
+    font-size: 30px;
+}
+
+img {
+    
+    width: 35%;
+    height: 35%;
+    position: relative;
+    margin-left: 60%;  
+    border-style: groove;
+    border-color: crimson;
+    border-radius:  40px 10px; 
+    
+   }
+   /* css index até aqui*/
+   
+
+
+   .buttonA{
+    float: right;
+    width: 25%;
+    background-color: crimson;
+    border: 2px solid black; 
+    padding: 1em;
+    text-align: center;
+    position: relative;
+    
+    
+    margin-top: 8%;
+    font-family: 'Sedgwick Ave', cursive;
+    font-size: 18px;
+    border-radius:2em
+}
+
+.buttonB{
+    float: left;
+    width: 25%;
+    background-color: crimson;
+    border: 2px solid black; 
+    padding: 1em;
+    text-align: center;
+    position: relative;
+    margin-top: 8%;
+    font-family: 'Sedgwick Ave', cursive;
+    font-size: 18px;
+    border-radius:2em
+}
+   
+.idSenha{
+    width: 500px; 
+    margin-left: auto;
+    margin-right: auto; 
+    margin-top: 5%;
+    width: 25%;
+    border-radius:2em;
+    background-color: crimson;
+    border: 2px solid black; 
+    padding: 1em;
+    text-align: left;
+    position: relative;
+    font-family: 'Sedgwick Ave', cursive;
+    font-size: 30px;
+}
+
+/* css login até aqui*/
+
+.buttonAAC{
+    float: right;
+    width: 20%;
+    background-color: crimson;
+    border: 2px solid black; 
+    padding: 1em;
+    text-align: center;
+    position: relative;
+    
+    
+    margin-top: 8%;
+    font-family: 'Sedgwick Ave', cursive;
+    font-size: 18px;
+    border-radius:2em
+}
+
+.buttonBAC{
+    float: left;
+    width: 20%;
+    background-color: crimson;
+    border: 2px solid black; 
+    padding: 1em;
+    text-align: center;
+    position: relative;
+    margin-top: 8%;
+    font-family: 'Sedgwick Ave', cursive;
+    font-size: 18px;
+    border-radius:2em
+}
+
+.em{
+    width: 500px; 
+    margin-left: auto;
+    margin-right: auto; 
+    margin-top: 5%;
+    width: 20%;
+    border-radius:2em;
+    background-color: crimson;
+    border: 2px solid black; 
+    padding: 1em;
+    text-align: left;
+    position: relative;
+    font-family: 'Sedgwick Ave', cursive;
+    font-size: 30px;
+}
+
+.idSenhaAC{
+    width: 500px; 
+    margin-left: auto;
+    margin-right: auto; 
+    margin-top: 5%;
+    width: 20%;
+    border-radius:2em;
+    background-color: crimson;
+    border: 2px solid black; 
+    padding: 1em;
+    text-align: left;
+    position: relative;
+    font-family: 'Sedgwick Ave', cursive;
+    font-size: 30px;
+}
+
+/* css account create ate aqui*/
+
+.ImgPerfil{
+        height: 250px;
+        width: 250px;
+        background-color: crimson;
+        border-radius: 50%;
+        display: inline-block;
+}
+
+.nameP{
+        width: 200px;
+        border: 2px solid black;
+        margin-top: 2%;
+        margin-right: auto;
+        text-align: center;
+        font-family: 'Sedgwick Ave', cursive;
+        border-radius:2rem;
+        background-color: crimson;
+}
+
+.list{
+    width: 500px;
+    height: 500px;
+    border: 2px solid black;
+    margin-top: 2%;
+    margin-right: auto;
+    margin-left: auto;
+    text-align: center;
+    font-family: 'Sedgwick Ave', cursive;
+    border-radius:2rem;
+    background-color: crimson;
+}
+
+.menu{
+    width: 200px;
+        border: 2px solid black;
+        margin-top: 0%;
+        margin-left: auto;
+        text-align: center;
+        font-family: 'Sedgwick Ave', cursive;
+        border-radius:2rem;
+        background-color: crimson;
+}
+
+.histo{
+    width: 200px;
+    border: 2px solid black;
+    margin-top: 2%;
+    margin-right: auto;
+    margin-left: auto;
+    text-align: center;
+    font-family: 'Sedgwick Ave', cursive;
+    border-radius:2rem;
+    background-color: crimson;
+}
+
+/* css perfil até aqui*/
+
+.saleItens{
+    width: 1500px;
+    height: 500px;
+    border: 2px solid black;
+    margin-top: 2%;
+    margin-bottom: 2%;;
+    margin-right: auto;
+    margin-left: auto;
+    text-align: center;
+    font-family: 'Sedgwick Ave', cursive;
+    border-radius:2rem;
+    background-color: crimson;
+}
+
+.backButton{
+        width: 200px;
+        border: 2px solid black;
+        margin-top: auto;
+        margin-bottom: 0%;;
+        text-align: center;
+        font-family: 'Sedgwick Ave', cursive;
+        border-radius:2rem;
+        background-color: crimson;
+}
+
+.itemsc{
+    float: left;
+    width: 20%;
+    margin-top: 5%;
+    border: 2px solid black;
+}
+
+
+
+/* css showcaSE ate aqui*/
+
+.itensLista{
+
+    width: 300px;
+    height: 500px;
+    border: 2px solid black;
+    margin-top: 2%;
+    margin-bottom: 2%;;
+    margin-right: auto;
+    margin-left: auto;
+    text-align: center;
+    font-family: 'Sedgwick Ave', cursive;
+    border-radius:2rem;
+    background-color: crimson;
+}
+
+.okButton{
+    width: 200px;
+        border: 2px solid black;
+        margin-top: auto;
+        margin-bottom: 2%;
+        
+        text-align: center;
+        font-family: 'Sedgwick Ave', cursive;
+        border-radius:2rem;
+        background-color: crimson;
+}
+
+.item{
+    float: left;
+    width: 50%;
+    margin-top: 5%;
+    border: 2px solid black;
+
+}
