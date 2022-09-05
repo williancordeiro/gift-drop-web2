@@ -5,18 +5,18 @@ Link do protótipo no figma: https://www.figma.com/proto/YYGuwFzeGqadWQzrCT2peX/
 
 Caixas de Diálogo
 
-- [ ] prompt
+- [x] prompt
 - [x] alert
-- [ ] confirm
+- [x] confirm
 
 Temporizadores
 
-- [ ] setInterval
-- [ ] setTimeout
+- [x] setInterval
+- [x] setTimeout
 
 Funções
 
-- [ ] Função anônima com argumento
+- [x] Função anônima com argumento
 - [ ] Função anônima sem argumento
 - [ ] Função anônima com retorno
 - [ ] Função auto-executável
@@ -27,7 +27,7 @@ Funções
 
 Eventos
 
-- [x] Evento de carregamento do documento - onload
+- [ ] Evento de carregamento do documento - onload
 - [ ] Evento de movimento do mouse
 - [ ] Evento de teclado - usar charCode ou keyCode
 - [ ] Eventos de formulário - onfocus e onblur
@@ -86,7 +86,7 @@ Formulário
 
 jQuery
 
-- [ ] Uso de seletores CSS - id, classe e tag
+- [x] Uso de seletores CSS - id, classe e tag
 - [ ] Uso de seletores hierárquicos estáticos - ancestral/descendente, pai/filho, anterior/próximo
 - [ ] Uso de seletores hierárquicos dinâmicos - parent/children/next
 - [ ] Efeitos fade ou slide
