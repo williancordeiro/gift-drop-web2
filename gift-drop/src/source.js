@@ -1,11 +1,11 @@
-let logo = document.querySelector("#logosite");
 
-logo.addEventListener('click', function(){
-    alert("Faça Login para acessar a loja")
+let inicial = document.querySelector("#voltar");
+inicial.addEventListener('click', function(){
+    window.location.href = 'http://127.0.0.1:5500/index.html'
 })
 
-let login = document.querySelector("#logar");
-login.addEventListener('click', function(){
-    alert("Funcionou")
+let paraOPerfil = document.querySelector("#acessarPerfil");
+paraOPerfil.addEventListener('click', function(){
+    window.location.href ='http://127.0.0.1:5500/profile.html'
 })
-   
+
